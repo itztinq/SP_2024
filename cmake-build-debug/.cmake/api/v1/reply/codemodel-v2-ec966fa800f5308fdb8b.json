@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SP_2023",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_world-Debug-17197600213532b0755e.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nizi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nizi-Debug-3f91cfda86587a4a1d6a.json",
+					"name" : "nizi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nizi1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nizi1-Debug-34d9639dd3865bfc256e.json",
+					"name" : "nizi1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nizi2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nizi2-Debug-a9edf4377cba8fba00d4.json",
+					"name" : "nizi2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nizi3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nizi3-Debug-7e2866eb37accd83b76c.json",
+					"name" : "nizi3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pr1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pr1-Debug-e62cddccc10cc4af9701.json",
+					"name" : "pr1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1-Debug-9aae1196613a8b02c97c.json",
+					"name" : "zad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2-Debug-3c1ab015810cf794b169.json",
+					"name" : "zad2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3-Debug-a8d9024a8f2e675832e5.json",
+					"name" : "zad3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4-Debug-5bac7287c1a7f3552c85.json",
+					"name" : "zad4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5-Debug-f52ea3ea6c4e0b45b310.json",
+					"name" : "zad5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad6-Debug-7c25574e811594da567b.json",
+					"name" : "zad6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadacha1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadacha1-Debug-646c1ccf8db18a5d2d2f.json",
+					"name" : "zadacha1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadacha2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadacha2-Debug-e8352576f76c80d70a99.json",
+					"name" : "zadacha2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadacha3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadacha3-Debug-cdeb1ae572cc4d495778.json",
+					"name" : "zadacha3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadacha4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadacha4-Debug-c6e832f3d0933b447145.json",
+					"name" : "zadacha4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tinas/CLionProjects/SP-23-24/cmake-build-debug",
+		"source" : "C:/Users/tinas/CLionProjects/SP-23-24"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
